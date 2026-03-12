@@ -1,0 +1,12 @@
+# notebooklm-py
+
+## Installation
+
+```bash
+# Basic installation
+pip install notebooklm-py
+
+# With browser login support (required for first-time setup)
+pip install "notebooklm-py[browser]"
+playwright install chromium
+```
